@@ -6,7 +6,7 @@
   <li>
     In primul pachet (pachetLocaluri) sunt grupate clasele ce reprezinta tipurile posibile de localuri de la care vine mancarea comandata de utilizator
     <ul>
-      <li> Restauranturi</li>
+      <li> <b>Restauranturi</b></li>
       <li> Supermarket </li>
       <li> Baruri </li>
     </ul>
